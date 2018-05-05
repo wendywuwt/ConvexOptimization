@@ -1,2 +1,2 @@
 # Convex Optimization
-## g2 is the function of gamma
+g2 is the function of gamma
